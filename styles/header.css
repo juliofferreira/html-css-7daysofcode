@@ -5,7 +5,7 @@
 	justify-content: space-between;
 }
 
-.nav {
+.header__nav {
 	margin-right: 20em;
 }
 
@@ -23,7 +23,7 @@
 	font-size: 16px;
 }
 
-.buttons {
+.header__buttons {
 	display: flex;
 	gap: 2em;
 }
