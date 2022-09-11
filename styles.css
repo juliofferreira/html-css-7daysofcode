@@ -1,9 +1,11 @@
 @import url(./styles/header.css);
+@import url(./styles/about-us.css);
 
 :root {
 	--white: #ffffff;
 	--gray: #667085;
 	--red: #8e2424;
+	--black: #101828;
 	--font: 'Inter', sans-serif;
 }
 
@@ -12,4 +14,5 @@ body {
 	font-family: var(--font);
 	font-size: 16px;
 	font-weight: 500;
+	box-sizing: border-box;
 }
