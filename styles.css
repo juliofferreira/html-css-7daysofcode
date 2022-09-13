@@ -1,5 +1,6 @@
 @import url(./styles/header.css);
 @import url(./styles/about-us.css);
+@import url(./styles/metrics.css);
 
 :root {
 	--white: #ffffff;
@@ -9,10 +10,12 @@
 	--font: 'Inter', sans-serif;
 }
 
+html {
+	font-size: 16px;
+}
+
 body {
 	background-color: var(--white);
 	font-family: var(--font);
-	font-size: 16px;
-	font-weight: 500;
 	box-sizing: border-box;
 }

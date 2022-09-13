@@ -3,30 +3,30 @@
 	flex-direction: column;
 	justify-content: space-between;
 	align-items: center;
-	margin: 6% 30%;
+	margin: 5% 30% 6%;
 	gap: 3em;
 }
 
 .about-us__span {
 	color: var(--red);
 	font-weight: 600;
-	line-height: 24px;
+	line-height: 1.5rem;
 	font-style: normal;
 }
 
 .about-us__title {
 	font-weight: 600;
 	font-style: normal;
-	font-size: 48px;
-	line-height: 60px;
+	font-size: 3rem;
+	line-height: 3.75rem;
 	letter-spacing: -0.02em;
 	color: var(--black);
 }
 
 .about-us__text {
 	font-weight: 400;
-	font-size: 20px;
-	line-height: 30px;
+	font-size: 1.25rem;
+	line-height: 1.875rem;
 	text-align: center;
 	color: var(--gray);
 	font-style: normal;

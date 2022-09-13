@@ -1,0 +1,31 @@
+.metrics-container {
+	display: flex;
+	margin: 0 5em 0;
+	justify-content: space-around;
+}
+
+.metric {
+	max-width: 14.5%;
+}
+
+.metric h2 {
+	color: var(--red);
+	font-weight: 600;
+	font-size: 3.75rem;
+	line-height: 4.5rem;
+	letter-spacing: -0.02em;
+}
+
+.metric h3 {
+	color: var(--black);
+	font-size: 1.125rem;
+	line-height: 1.75rem;
+	margin-top: 1em;
+}
+
+.metric p {
+	color: var(--gray);
+	font-weight: 400;
+	line-height: 1.5rem;
+	margin-top: 0.5em;
+}
