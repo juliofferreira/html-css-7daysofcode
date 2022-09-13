@@ -1,6 +1,7 @@
 @import url(./styles/header.css);
 @import url(./styles/about-us.css);
 @import url(./styles/metrics.css);
+@import url(./styles/job-opportunities.css);
 
 :root {
 	--white: #ffffff;
