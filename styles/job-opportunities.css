@@ -6,7 +6,7 @@
 	margin: 12em auto;
 }
 
-.job-opportunities span {
+.job-opportunities > span {
 	color: var(--red);
 	font-size: 0.875rem;
 	font-weight: 500;
@@ -32,5 +32,47 @@
 }
 
 .job-opportunities img {
-	margin-top: 3.5em;
+	margin-top: 3em;
+}
+
+.jobs {
+	display: flex;
+	align-items: flex-start;
+	flex-direction: column;
+	gap: 2rem;
+	width: 40%;
+	margin-top: 3em;
+}
+
+.job-area {
+	color: var(--black);
+	font-weight: 500;
+	font-size: 1.25rem;
+	line-height: 1.875rem;
+}
+
+.job-area > span {
+	color: var(--black);
+	font-weight: 500;
+	font-size: 1.125rem;
+	line-height: 1.75rem;
+}
+
+.job-info span {
+	color: var(--gray);
+	font-weight: 500;
+	font-size: 1rem;
+	line-height: 1.5rem;
+	margin-right: 1.5em;
+}
+
+.job-container {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	padding: 1.5rem 1.5rem 1.75rem;
+	gap: 1.5rem;
+	border: 0.0625rem solid var(--border-color);
+	border-radius: 1rem;
+	width: 100%;
 }
