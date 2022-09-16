@@ -3,7 +3,7 @@
 	flex-direction: column;
 	justify-content: space-between;
 	gap: 2rem;
-	background-color: var(--background-color-comments);
+	background-color: var(--background-color-section);
 	align-items: center;
 	padding: 4rem;
 	margin: 0 8em;
