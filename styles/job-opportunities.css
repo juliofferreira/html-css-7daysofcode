@@ -3,7 +3,7 @@
 	flex-direction: column;
 	align-items: center;
 	gap: 1.5em;
-	margin: 12em auto;
+	margin: 12em auto 7em;
 }
 
 .job-opportunities > span {
