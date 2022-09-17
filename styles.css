@@ -3,6 +3,7 @@
 @import url(./styles/metrics.css);
 @import url(./styles/job-opportunities.css);
 @import url(./styles/comments.css);
+@import url(./styles/footer.css);
 
 :root {
 	--white: #ffffff;
@@ -11,6 +12,8 @@
 	--black: #101828;
 	--border-color: #eaecf0;
 	--background-color-section: rgba(196, 25, 25, 0.03);
+	--border-color-input: #d0d5dd;
+	--copyright-color: #98a2b3;
 	--font: 'Inter', sans-serif;
 }
 
